@@ -1,0 +1,5 @@
+make,up,down
+samsung,100,200
+iphone,200,150
+samsung,100,50
+iphone,30,90
